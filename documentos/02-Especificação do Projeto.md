@@ -101,10 +101,7 @@ o	Descreva brevemente a arquitetura definida para o projeto e as tecnologias a s
 
 ## Project Model Canvas
 
-Colocar a imagem do modelo construído apresentando a proposta de solução.
-
-> **Links Úteis**:
-> Disponíveis em material de apoio do projeto
+https://next.canvanizer.com/canvas/iyLcAeebupFpa
 
 
 ## Requisitos do Projeto
