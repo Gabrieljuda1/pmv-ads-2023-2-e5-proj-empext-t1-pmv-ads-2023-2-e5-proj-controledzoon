@@ -1,14 +1,35 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+## Software para Registro de Exames de Leishmaniose: Uma Ferramenta Vital no Combate à Doença
+
+A **leishmaniose** é uma doença parasitária transmitida por insetos que afeta milhões de pessoas em todo o mundo, principalmente em regiões tropicais e subtropicais. O diagnóstico precoce e o acompanhamento adequado dos casos são essenciais para o tratamento eficaz e a prevenção da disseminação da doença.
+
+Nesse contexto, a criação de um **software para registro de exames de leishmaniose** surge como uma ferramenta valiosa para profissionais de saúde, laboratórios e autoridades de saúde pública.
+
+### Papel Crucial do Software
+
+Este software pode desempenhar um papel crucial na coleta, armazenamento e análise de dados relacionados à leishmaniose, permitindo uma melhor compreensão da distribuição geográfica da doença, identificação de áreas de alto risco e monitoramento de casos ao longo do tempo. Além disso, ele pode facilitar a comunicação entre médicos, laboratórios e instituições de saúde, agilizando o processo de diagnóstico e tratamento.
+
+### Aspectos na Criação do Software
+
+Neste artigo, exploraremos os principais aspectos envolvidos na criação de um software para registro de exames de leishmaniose:
+
+- **Definição de Requisitos e Funcionalidades:** Identificaremos os requisitos e funcionalidades essenciais do software.
+  
+- **Segurança de Dados e Privacidade:** Abordaremos questões críticas relacionadas à segurança de dados e à proteção da privacidade do paciente.
+
+- **Contribuição para o Combate da Leishmaniose:** Discutiremos como essa ferramenta pode contribuir para o combate eficaz da leishmaniose e melhorar a qualidade de vida das pessoas afetadas por essa doença debilitante.
+
+Este software representa uma abordagem moderna e tecnológica para enfrentar os desafios da leishmaniose, proporcionando soluções eficientes para profissionais de saúde e impactando positivamente a saúde pública em todo o mundo.
+
 
 ## Problema
 
-# Registro de Exames de Leishmaniose
+### Registro de Exames de Leishmaniose
 
 O problema a ser resolvido com a criação de um software para registro de exames de leishmaniose é a necessidade de melhorar a gestão e o controle dessa doença parasitária que afeta seres humanos e animais em diversas regiões do mundo. A leishmaniose é uma doença complexa, com múltiplas formas clínicas, causada pelo parasita do gênero *Leishmania* e transmitida através da picada de insetos vetores, geralmente flebotomíneos.
 
-## Desafios associados ao controle da leishmaniose
+### Desafios associados ao controle da leishmaniose
 
 Os desafios associados ao controle da leishmaniose incluem:
 
@@ -27,7 +48,7 @@ Portanto, a criação de um software para registro de exames de leishmaniose vis
 
 ## Objetivos
 
-# Objetivos do Software para Registro de Exames de Leishmaniose
+### Objetivos do Software para Registro de Exames de Leishmaniose
 
 Os objetivos do software para registro de exames de leishmaniose são diversos e abrangem a melhoria na gestão, diagnóstico, tratamento e controle dessa doença parasitária. A seguir, descrevo os principais objetivos a serem alcançados por esse software:
 
@@ -60,7 +81,7 @@ Em resumo, o software para registro de exames de leishmaniose tem como objetivo 
 
 ## Justificativa
 
-# Justificativa para a Implementação de um Software para Registro de Exames de Leishmaniose
+### Justificativa para a Implementação de um Software para Registro de Exames de Leishmaniose
 
 A criação de um software para registro de exames de leishmaniose é justificada por uma série de razões fundamentais que têm um impacto significativo na gestão e controle eficaz dessa doença parasitária. A seguir, apresentamos uma justificativa detalhada para a implementação desse software:
 
@@ -93,13 +114,13 @@ Em resumo, a implementação de um software para registro de exames de leishmani
 
 ## Relação com a Extensão Universitária
 
-# Relação entre Situação-Problema da Organização e Impacto Social Esperado com o Sistema Sociotécnico
+### Relação entre Situação-Problema da Organização e Impacto Social Esperado com o Sistema Sociotécnico
 
-## Situação-Problema da Organização
+### Situação-Problema da Organização
 
 A organização enfrenta desafios significativos no controle e gestão da leishmaniose, uma doença parasitária que afeta tanto seres humanos quanto animais em várias regiões. Os principais problemas incluem diagnóstico impreciso, falta de acompanhamento adequado de pacientes, dificuldades na identificação de áreas de alto risco e ineficiências operacionais devido a processos manuais e comunicação ineficaz entre os envolvidos na saúde pública.
 
-## Impacto Social Esperado com a Implantação do Sistema Sociotécnico
+### Impacto Social Esperado com a Implantação do Sistema Sociotécnico
 
 1. **Melhorias na Saúde Pública:** Com o sistema sociotécnico, espera-se uma melhoria significativa na gestão da leishmaniose. Isso resultará em diagnósticos mais precisos, tratamentos mais eficazes e, consequentemente, na redução das complicações e taxas de mortalidade relacionadas à doença.
 
@@ -120,17 +141,17 @@ Em resumo, a implantação do sistema sociotécnico na organização visa aborda
 
 ## Descrição do Parceiro
 
-# Prefeitura de Igarapé, MG
+### Prefeitura de Igarapé, MG
 
 A Prefeitura de Igarapé é a administração municipal da cidade de Igarapé, localizada no estado de Minas Gerais, Brasil. Igarapé é um município com uma população considerável, com diversos desafios e responsabilidades administrativas.
 
-## Informações Gerais
+### Informações Gerais
 - **Localização:** Igarapé é um município situado na Região Metropolitana de Belo Horizonte, em Minas Gerais, Brasil.
 - **População:** A cidade possui uma população diversificada, abrangendo áreas urbanas e rurais. A administração municipal atende às necessidades de saúde, educação, infraestrutura e bem-estar de seus habitantes.
 - **Responsabilidades:** A Prefeitura de Igarapé é responsável por uma ampla gama de serviços públicos, incluindo educação, saúde, transporte, segurança pública, urbanismo, meio ambiente e assistência social.
 - **Desafios:** Como em muitas áreas urbanas, a administração enfrenta desafios como o planejamento urbano, o atendimento à saúde da população, a gestão de recursos limitados e o enfrentamento de problemas de saúde pública, como a leishmaniose.
 
-## Objetivo do Sistema Sociotécnico
+### Objetivo do Sistema Sociotécnico
 O sistema sociotécnico que será desenvolvido pela Prefeitura de Igarapé tem o objetivo de melhorar a gestão e controle da leishmaniose na região, abordando os desafios relacionados ao diagnóstico, tratamento, prevenção e conscientização pública dessa doença parasitária.
 
 O cenário da Prefeitura de Igarapé, MG, representa um ambiente complexo em que o sistema sociotécnico desempenhará um papel crucial na melhoria da qualidade de vida da população, na eficiência operacional dos serviços públicos e no enfrentamento de desafios específicos de saúde pública, como a leishmaniose. O sistema sociotécnico visa integrar tecnologia, processos e pessoas para enfrentar esses desafios de forma eficaz e promover um impacto social positivo na comunidade.
