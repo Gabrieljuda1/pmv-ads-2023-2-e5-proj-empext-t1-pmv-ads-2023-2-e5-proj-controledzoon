@@ -1,0 +1,15 @@
+message: Please cite this software using these metadata.
+title: Controle de zoonoses
+authors:
+  - family-names: Judá de Oliveira
+    given-names: Gabriel
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Maria Silveira
+    given-names: Sandra
+keywords:
+  - controle de zoonoses
+  - petshop
+repository-code: https://github.com/Gabrieljuda1/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-controledzoon
+version: 1.0.0
+date-released: 2024-06-20
